@@ -1,0 +1,11 @@
+D:\Users\wendell.mcardoso\source\repos\Aula02Atividade\Aula02Atividade\bin\Debug\Aula02Atividade.exe.config
+D:\Users\wendell.mcardoso\source\repos\Aula02Atividade\Aula02Atividade\bin\Debug\Aula02Atividade.exe
+D:\Users\wendell.mcardoso\source\repos\Aula02Atividade\Aula02Atividade\bin\Debug\Aula02Atividade.pdb
+D:\Users\wendell.mcardoso\source\repos\Aula02Atividade\Aula02Atividade\obj\Debug\Aula02Atividade.csproj.AssemblyReference.cache
+D:\Users\wendell.mcardoso\source\repos\Aula02Atividade\Aula02Atividade\obj\Debug\Aula02Atividade.csproj.SuggestedBindingRedirects.cache
+D:\Users\wendell.mcardoso\source\repos\Aula02Atividade\Aula02Atividade\obj\Debug\Aula02Atividade.Form1.resources
+D:\Users\wendell.mcardoso\source\repos\Aula02Atividade\Aula02Atividade\obj\Debug\Aula02Atividade.Properties.Resources.resources
+D:\Users\wendell.mcardoso\source\repos\Aula02Atividade\Aula02Atividade\obj\Debug\Aula02Atividade.csproj.GenerateResource.cache
+D:\Users\wendell.mcardoso\source\repos\Aula02Atividade\Aula02Atividade\obj\Debug\Aula02Atividade.csproj.CoreCompileInputs.cache
+D:\Users\wendell.mcardoso\source\repos\Aula02Atividade\Aula02Atividade\obj\Debug\Aula02Atividade.exe
+D:\Users\wendell.mcardoso\source\repos\Aula02Atividade\Aula02Atividade\obj\Debug\Aula02Atividade.pdb
